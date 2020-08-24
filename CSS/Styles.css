@@ -1,0 +1,74 @@
+/************************TAGS STYLING**********************/
+body {
+padding: 0;
+  margin: 0;
+  outline: 0;
+  border: 0;
+  text-align: center;
+  font-family: 'Prompt', sans-serif;
+}
+div {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  border: 0;
+}
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 88px;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+img {
+  mix-blend-mode: multiply;
+}
+/************************CLASS STYLING*******************/
+.topdiv {
+  background-color: #dbe3e5;
+  position: relative;
+}
+.middle-container {
+  background-color: #f3e6e3;
+
+}
+.contact-me {
+  background-color: #d3c09a;
+}
+.bottom-container {
+  background-color: #776d8a;
+}
+.feather1 {
+  transform: rotate(95deg);
+  position: relative;
+  left: 20px;
+  top: 80px;
+}
+.feather2 {
+  bottom: 130px;
+  left: 80px;
+  position: relative;
+  transform: rotate(355deg);
+}
+.feather3 {
+  position: relative;
+  top: 360px;
+  left: 160px;
+  transform: rotate(170deg);
+}
+.topdiv {
+  position: relative;
+}
+.cheese {
+  position: relative;
+  bottom: 160px;
+  right: 50px;
+}
+/************************ID STYLING ********************/
+#who {
+  position: relative;
+  bottom: 80px;
+}
