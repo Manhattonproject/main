@@ -27,6 +27,12 @@ img {
   mix-blend-mode: multiply;
 }
 /************************CLASS STYLING*******************/
+.aprin {
+  position: absolute;
+  right: 100px;
+top: 950px;
+transform: rotate(15deg);
+}
 .topdiv {
   background-color: #dbe3e5;
   position: relative;
@@ -66,6 +72,10 @@ img {
   position: relative;
   bottom: 160px;
   right: 50px;
+}
+.flaticon {
+  max-width: 15%;
+  height: auto;
 }
 /************************ID STYLING ********************/
 #who {
